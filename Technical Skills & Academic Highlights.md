@@ -21,7 +21,7 @@ A combination of strong coursework, hands-on projects, and research experience h
   - *Intro to Machine Learning* (in progress)
   - *Intro to Data Science* (in progress)
 - **Research Experience**:
-  - Worked on an LLM-enhanced modeling project in environmental/agricultural domains (see [Project Highlight](Project Highlight.md))
+  - Worked on an LLM-enhanced modeling project in environmental/agricultural domains (see [Project Highlight](project-highlight.md))
 
 ---
 
