@@ -7,20 +7,20 @@ This page includes all required assignments and professional artifacts for the c
 
 ## 📌 Main Sections
 
-- 📝 [Introduction](#introduction)
-- 📄 [Resume](resume.pdf)
-- 📬 [Cover Letter](cover-letter.pdf)
-- 💡 [Professional Philosophy Statement](philosophy.md)
-- 🎯 [Goals, Awards & Community Service](awards.md)
-- 📚 [Professional Bibliography](bibliography.md)
+- 📝 [Introduction]
+- 📄 [Resume]
+- 📬 [Cover Letter]
+- 💡 [Professional Philosophy Statement]
+- 🎯 [Goals, Awards & Community Service]
+- 📚 [Professional Bibliography]
 
 ---
 
 ## 📂 Artifacts
 
-1. [Reflection on Professional Communication](artifacts/communication-reflection.md)  
-2. [Job Research Infographic](artifacts/job-infographic.pdf)  
-3. [You-Attitude Memo + Email](artifacts/you-attitude.pdf)
+1. [Reflection on Professional Communication]
+2. [Job Research Infographic]
+3. [You-Attitude Memo + Email]
 
 ---
 Thank you for reading!
