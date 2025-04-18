@@ -19,9 +19,8 @@ This page includes all required assignments and professional artifacts for the c
 ## 📂 Artifacts
 
 1. [Reflection on Professional Communication](artifacts/communication-reflection.md)  
-2. [Crafting a Sound Email Assignment](artifacts/email-revision.md)  
-3. [Job Research Infographic](artifacts/job-infographic.pdf)  
-4. [You-Attitude Memo + Email](artifacts/you-attitude.pdf)
+2. [Job Research Infographic](artifacts/job-infographic.pdf)  
+3. [You-Attitude Memo + Email](artifacts/you-attitude.pdf)
 
 ---
 Thank you for reading!
