@@ -19,11 +19,10 @@ This site showcases revised assignments and professional artifacts developed thr
 ## 🗂️ Artifacts
 
 1. 📝 [Reflection on Professional Communication](Reflection on Professional Communication.pdf)
-2. 🧠 [Crafting a Sound Email Assignment](A4-Part1.docx)
-3. 💬 [You-Attitude Memo + Email](You_attitude_memo.pdf)
-4. 📊 [Job Research Infographic](job-infographic.png)
-5. 🌱 [LLM-Augmented Modeling Project](Project Highlight.md)
-6. 💻 [Skills & Technical Summary](Technical Skills & Academic Highlights.md)
+2. 💬 [You-Attitude Memo](You_attitude_memo.pdf)
+3. 📊 [Job Research Infographic](job-infographic.png)
+4. 🌱 [LLM-Augmented Modeling Project](Project Highlight.md)
+5. 💻 [Skills & Technical Summary](Technical Skills & Academic Highlights.md)
 
 ---
 
