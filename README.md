@@ -52,7 +52,7 @@ A visual summary of research on a targeted job position and required skills.
 
 ### 🌱 LLM-Augmented Modeling Project  
 A technical reflection on a research project involving large language models.  
-📎 [View File] [LLM-Augmented Modeling Project](project-highlight.md)
+📎 [LLM-Augmented Modeling Project](project-highlight.md)
 
 
 ---
